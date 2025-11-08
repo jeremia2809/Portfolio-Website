@@ -55,7 +55,7 @@
     "image": "webory",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jeremia2809/WebOry",
+      "view": "https://web-ory.vercel.app",
       "code": "https://github.com/jeremia2809/WebOry"
     }
   },
@@ -75,7 +75,7 @@
     "image": "Asphaly",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jeremia2809/Asphaly.git",
+      "view": "https://asphaly.vercel.app",
       "code": "https://github.com/jeremia2809/Asphaly.git"
     }
   },
