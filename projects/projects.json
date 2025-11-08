@@ -60,13 +60,13 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "DiagnoAI",
+    "desc": "Medical platform to analyse user's heart condition based on provided health information",
+    "image": "DiagnoAI",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://github.com/jeremia2809/DiagnoAI",
+      "code": "https://github.com/jeremia2809/DiagnoAI"
     }
   },
   {
